@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "711312ff-4676-4638-a255-4450f3d293ab",
+      "title": "Fundamentos Node",
+      "description": "Curso de fundamentos do node",
+      "completed_at": null,
+      "created_at": "2024-10-14T23:47:43.436Z",
+      "updated_at": "2024-10-14T23:47:43.436Z"
+    },
+    {
+      "id": "99442a4e-b651-4f91-8bd4-f429b2330389",
+      "title": "Fundamentos Node",
+      "description": "Curso de fundamentos do node",
+      "completed_at": null,
+      "created_at": "2024-10-14T23:47:44.038Z",
+      "updated_at": "2024-10-14T23:47:44.038Z"
+    },
+    {
+      "id": "3166f14c-1ee1-4d29-90a3-ef9e6413404c",
+      "title": "Fundamentos Node",
+      "description": "Curso de fundamentos do node",
+      "completed_at": null,
+      "created_at": "2024-10-14T23:47:44.931Z",
+      "updated_at": "2024-10-14T23:47:44.931Z"
+    }
+  ]
+}
